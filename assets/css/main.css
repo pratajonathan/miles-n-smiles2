@@ -2473,7 +2473,8 @@ input, select, textarea {
 		backdrop-filter: blur(8px);
 		-webkit-backdrop-filter: blur(8px);
 		border: 1px solid rgba(255, 255, 255, 0.23);
-		margin: 10px;
+		margin: 15px;
+		padding: 10px;
 		
 	}
 	
