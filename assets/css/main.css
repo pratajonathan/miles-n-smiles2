@@ -2443,3 +2443,37 @@ input, select, textarea {
 					}
 
 	}
+	#top{
+		background-image: url("/Users/Jonathan/Documents/Web Developer/miles n smiles/images/fam vacay.jpg");
+		background-size: 100%;
+		background-color: whitesmoke;
+		
+	}
+	@media screen and (max-width: 736px){
+		#top{
+			background-image: url("/Users/Jonathan/Documents/Web Developer/miles n smiles/images/fam vacay.jpg");
+			background-size: 150%;
+			background-color: whitesmoke;
+			
+		}
+	}
+
+	.mainBox{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+	}
+	.titleBox{
+		
+
+		background: rgba(255, 255, 255, 0.33);
+		border-radius: 16px;
+		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+		backdrop-filter: blur(8px);
+		-webkit-backdrop-filter: blur(8px);
+		border: 1px solid rgba(255, 255, 255, 0.23);
+		margin: 10px;
+		
+	}
+	
