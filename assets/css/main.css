@@ -2447,12 +2447,15 @@ input, select, textarea {
 		background-image: url("images/fam vacay.jpg");
 		background-size: 100%;
 		background-color: whitesmoke;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 		
 	}
 	@media screen and (max-width: 736px){
 		#top{
 			background-image: url("images/fam vacay.jpg");
-			background-size: 150%;
+			background-size: 200%;
 			background-color: whitesmoke;
 			
 		}
@@ -2464,6 +2467,7 @@ input, select, textarea {
 		justify-content: center;
 
 	}
+	
 	.titleBox{
 		
 
